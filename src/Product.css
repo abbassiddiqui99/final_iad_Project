@@ -8,7 +8,11 @@
   min-width: 100px;
   margin: 10px;
   background-color: white;
+  border-radius: 14px;
   z-index: 1;
+}
+.product:hover {
+  background-color: rgb(245, 245, 245);
 }
 .product__info {
   height: 100px;
